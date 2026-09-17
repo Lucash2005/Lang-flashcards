@@ -3,6 +3,8 @@ import { mergeIncomingCards, parseCardsPayload } from "./merge";
 import type { MergeResult, RemoteCard } from "./types";
 
 export function cardsJsonUrl(): string {
+  // Must match Vite `base` / live Pages path, including casing:
+  // `/Lang-flashcards/cards.json`
   const base = import.meta.env.BASE_URL || "/";
   const normalized = base.endsWith("/") ? base : `${base}/`;
   return `${normalized}cards.json`;

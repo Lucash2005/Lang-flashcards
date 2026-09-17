@@ -2,11 +2,11 @@
 
 Lucas 的英文／日文間隔重複閃卡，介面為繁體中文。純前端、無後端、無登入；單字與複習進度存在你的瀏覽器（IndexedDB）。
 
-線上使用：<https://lucash2005.github.io/lang-flashcards/>
+線上使用：<https://lucash2005.github.io/Lang-flashcards/>
 
 ## iPhone 開啟步驟
 
-1. 用 **Safari** 打開 [https://lucash2005.github.io/lang-flashcards/](https://lucash2005.github.io/lang-flashcards/)
+1. 用 **Safari** 打開 [https://lucash2005.github.io/Lang-flashcards/](https://lucash2005.github.io/Lang-flashcards/)
 2. 點下方 **分享** → **加入主畫面**
 3. 之後從主畫面圖示開啟即可當 App 用（可離線複習本機已同步的單字）
 4. 教練更新單字後，打開 App 會自動抓最新單字；也可手動點 **同步新單字**。相同 `id` 只更新正面／背面，**不會清掉複習進度**
@@ -17,7 +17,7 @@ Lucas 的英文／日文間隔重複閃卡，介面為繁體中文。純前端�
 
 - **牌組**：全部／English／日本語。到期張數會分開顯示。
 - **複習**：點卡片翻面，再選 **再來一次／普通／簡單**。
-- **同步新單字**：向 `/lang-flashcards/cards.json` 抓最新單字庫，依穩定 `id` 合併進 IndexedDB。
+- **同步新單字**：向 `/Lang-flashcards/cards.json` 抓最新單字庫，依穩定 `id` 合併進 IndexedDB。
 - **貼上匯入**：可選，貼上教練給的 JSON（`cards` 陣列），同樣合併、保留 SRS。
 - **匯出／匯入備份**：整份 JSON 備份（含複習進度），換手機時用這個。
 
@@ -55,7 +55,7 @@ npm test
 npm run dev
 ```
 
-開發伺服器請走 `http://localhost:5173/lang-flashcards/`（Vite `base` 為 `/lang-flashcards/`）。
+開發伺服器請走 `http://localhost:5173/Lang-flashcards/`（Vite `base` 為 `/Lang-flashcards/`，須與 GitHub Pages 路徑大小寫一致）。
 
 ```bash
 npm run build
