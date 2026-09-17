@@ -1,0 +1,246 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-16T23:27:13.491088+00:00",
+  "cards": [
+    {
+      "id": "EN-2026-09-17-dessert",
+      "lang": "EN",
+      "front": "dessert",
+      "back": "甜點；餐後甜食｜I always order a dessert.",
+      "date": "2026-09-17",
+      "createdAt": "2026-09-17T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-17-pudding",
+      "lang": "EN",
+      "front": "pudding",
+      "back": "布丁；（英式）甜點｜In the UK, desserts are often called puddings.",
+      "date": "2026-09-17",
+      "createdAt": "2026-09-17T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-17-sweet tooth",
+      "lang": "EN",
+      "front": "sweet tooth",
+      "back": "愛吃甜食｜She has a big sweet tooth.",
+      "date": "2026-09-17",
+      "createdAt": "2026-09-17T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-17-sharp",
+      "lang": "EN",
+      "front": "sharp",
+      "back": "味道偏酸／強烈的｜Fruit puddings can taste sharp.",
+      "date": "2026-09-17",
+      "createdAt": "2026-09-17T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-17-filling",
+      "lang": "EN",
+      "front": "filling",
+      "back": "容易讓人飽的｜Ice cream is not too filling.",
+      "date": "2026-09-17",
+      "createdAt": "2026-09-17T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-17-地震（じしん）",
+      "lang": "JP",
+      "front": "地震（じしん）",
+      "back": "地震｜関東で地震がありました。",
+      "date": "2026-09-17",
+      "createdAt": "2026-09-17T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-17-震源地（しんげんち）",
+      "lang": "JP",
+      "front": "震源地（しんげんち）",
+      "back": "震源地｜震源地は茨城県南部でした。",
+      "date": "2026-09-17",
+      "createdAt": "2026-09-17T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-17-震度（しんど）",
+      "lang": "JP",
+      "front": "震度（しんど）",
+      "back": "震度（地震強度）｜震度三を観測しました。",
+      "date": "2026-09-17",
+      "createdAt": "2026-09-17T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-17-津波（つなみ）",
+      "lang": "JP",
+      "front": "津波（つなみ）",
+      "back": "海嘯；津波｜津波の心配はありません。",
+      "date": "2026-09-17",
+      "createdAt": "2026-09-17T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-17-心配（しんぱい）",
+      "lang": "JP",
+      "front": "心配（しんぱい）",
+      "back": "擔心；顧慮｜心配はいりません。",
+      "date": "2026-09-17",
+      "createdAt": "2026-09-17T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-16-storm",
+      "lang": "EN",
+      "front": "storm",
+      "back": "暴風雨；熱帶風暴｜Tropical storms are becoming more dangerous.",
+      "date": "2026-09-16",
+      "createdAt": "2026-09-16T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-16-landslide",
+      "lang": "EN",
+      "front": "landslide",
+      "back": "山崩；土石滑落｜Heavy rain can cause landslides.",
+      "date": "2026-09-16",
+      "createdAt": "2026-09-16T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-16-flood",
+      "lang": "EN",
+      "front": "flood",
+      "back": "洪水；水災｜Slow storms can cause more floods.",
+      "date": "2026-09-16",
+      "createdAt": "2026-09-16T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-16-sea level",
+      "lang": "EN",
+      "front": "sea level",
+      "back": "海平面｜Sea levels are rising.",
+      "date": "2026-09-16",
+      "createdAt": "2026-09-16T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-16-dangerous",
+      "lang": "EN",
+      "front": "dangerous",
+      "back": "危險的｜Storm surges can be dangerous.",
+      "date": "2026-09-16",
+      "createdAt": "2026-09-16T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-16-無人機（むじんき）",
+      "lang": "JP",
+      "front": "無人機（むじんき）",
+      "back": "無人機｜無人機が通信を失いました。",
+      "date": "2026-09-16",
+      "createdAt": "2026-09-16T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-16-通信（つうしん）",
+      "lang": "JP",
+      "front": "通信（つうしん）",
+      "back": "通訊；通信｜通信を失いました。",
+      "date": "2026-09-16",
+      "createdAt": "2026-09-16T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-16-墜落する（ついらくする）",
+      "lang": "JP",
+      "front": "墜落する（ついらくする）",
+      "back": "墜毀；墜落｜墜落したと推定しています。",
+      "date": "2026-09-16",
+      "createdAt": "2026-09-16T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-16-推定する（すいていする）",
+      "lang": "JP",
+      "front": "推定する（すいていする）",
+      "back": "推定；推斷｜墜落したと推定しています。",
+      "date": "2026-09-16",
+      "createdAt": "2026-09-16T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-16-沖（おき）",
+      "lang": "JP",
+      "front": "沖（おき）",
+      "back": "離岸海域；海上｜鳥取県の沖で見つかりました。",
+      "date": "2026-09-16",
+      "createdAt": "2026-09-16T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-14-app",
+      "lang": "EN",
+      "front": "app",
+      "back": "應用程式；語言學習 App｜Many people use language apps.",
+      "date": "2026-09-14",
+      "createdAt": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-14-study",
+      "lang": "EN",
+      "front": "study",
+      "back": "研究；調查｜A study compared two groups.",
+      "date": "2026-09-14",
+      "createdAt": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-14-classroom",
+      "lang": "EN",
+      "front": "classroom",
+      "back": "教室；課堂｜Classroom learners improved listening.",
+      "date": "2026-09-14",
+      "createdAt": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-14-listening",
+      "lang": "EN",
+      "front": "listening",
+      "back": "聽力｜They did better on listening tests.",
+      "date": "2026-09-14",
+      "createdAt": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-14-improve",
+      "lang": "EN",
+      "front": "improve",
+      "back": "進步；變好｜App learners improved on writing.",
+      "date": "2026-09-14",
+      "createdAt": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-14-大雨（おおあめ）",
+      "lang": "JP",
+      "front": "大雨（おおあめ）",
+      "back": "大雨｜日本海側で大雨が降っています。",
+      "date": "2026-09-14",
+      "createdAt": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-14-土砂災害（どしゃさいがい）",
+      "lang": "JP",
+      "front": "土砂災害（どしゃさいがい）",
+      "back": "土石／土石流等災害｜土砂災害に注意してください。",
+      "date": "2026-09-14",
+      "createdAt": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-14-観測する（かんそくする）",
+      "lang": "JP",
+      "front": "観測する（かんそくする）",
+      "back": "觀測；測量｜強い雨を観測しました。",
+      "date": "2026-09-14",
+      "createdAt": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-14-注意する（ちゅういする）",
+      "lang": "JP",
+      "front": "注意する（ちゅういする）",
+      "back": "注意｜注意するように言っています。",
+      "date": "2026-09-14",
+      "createdAt": "2026-09-14T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-14-見込み（みこみ）",
+      "lang": "JP",
+      "front": "見込み（みこみ）",
+      "back": "預估；展望｜雨が続く見込みです。",
+      "date": "2026-09-14",
+      "createdAt": "2026-09-14T00:00:00+08:00"
+    }
+  ]
+}

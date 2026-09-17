@@ -1,0 +1,19 @@
+{
+  "name": "Lucas 單字閃卡",
+  "short_name": "單字閃卡",
+  "description": "英文／日文間隔重複閃卡",
+  "start_url": "/lang-flashcards/",
+  "scope": "/lang-flashcards/",
+  "display": "standalone",
+  "background_color": "#f4efe6",
+  "theme_color": "#f4efe6",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
