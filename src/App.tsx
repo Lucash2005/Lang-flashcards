@@ -55,7 +55,6 @@ export default function App() {
   const [lastSync, setLastSync] = useState<string | undefined>();
   const [pasteOpen, setPasteOpen] = useState(false);
   const [pasteText, setPasteText] = useState("");
-  const [doneCount, setDoneCount] = useState(0);
 
   const refresh = useCallback(async () => {
     const [all, syncAt] = await Promise.all([
@@ -149,7 +148,6 @@ export default function App() {
   function startReview() {
     if (dueCards.length === 0) return;
     setQueue(dueCards);
-    setDoneCount(0);
     setFlipped(false);
     setScreen("review");
     setMessage(null);
@@ -163,7 +161,6 @@ export default function App() {
       prev.map((card) => (card.id === updated.id ? updated : card)),
     );
     setFlipped(false);
-    setDoneCount((n) => n + 1);
     setQueue((prev) => {
       const rest = prev.slice(1);
       if (rating === "again") return [...rest, updated];
@@ -234,9 +231,7 @@ export default function App() {
             ← 結束
           </button>
           <div className="progress">
-            {remaining === 0
-              ? "完成"
-              : `${doneCount + 1}／${doneCount + remaining}`}
+            {remaining === 0 ? "完成" : `還剩 ${remaining} 張`}
           </div>
           <div className="deck-chip">
             {filter === "all" ? "全部" : filter === "EN" ? "English" : "日本語"}

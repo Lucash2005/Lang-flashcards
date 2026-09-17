@@ -65,3 +65,11 @@ npm run preview
 ## GitHub Pages
 
 推送到 `main` 後，工作流程會執行 `npm ci`、`npm test`、`npm run build`，並把 `dist/` 部署到 GitHub Pages（來源：GitHub Actions）。
+
+第一次上線需要倉庫擁有者做一次設定（不需 PAT）：
+
+1. 打開 [Settings → Pages](https://github.com/Lucash2005/Lang-flashcards/settings/pages)
+2. Build and deployment → **Source: GitHub Actions** → Save
+3. 到 [Actions：Deploy to GitHub Pages](https://github.com/Lucash2005/Lang-flashcards/actions/workflows/deploy.yml) 把最近一次失敗的 run 按 **Re-run jobs**
+
+之後每次 push `main` 都會自動更新網站。
