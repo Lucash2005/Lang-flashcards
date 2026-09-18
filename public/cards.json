@@ -1,7 +1,87 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18T07:14:19.000385+08:00",
+  "updatedAt": "2026-09-19T07:13:50.605+08:00",
   "cards": [
+    {
+      "id": "EN-2026-09-19-rejection",
+      "lang": "EN",
+      "front": "rejection",
+      "back": "拒絕；被拒絕｜Many people do not like rejection.",
+      "date": "2026-09-19",
+      "createdAt": "2026-09-19T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-19-confidence",
+      "lang": "EN",
+      "front": "confidence",
+      "back": "自信；信心｜This may help their confidence.",
+      "date": "2026-09-19",
+      "createdAt": "2026-09-19T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-19-stranger",
+      "lang": "EN",
+      "front": "stranger",
+      "back": "陌生人｜They ask strangers for small favours.",
+      "date": "2026-09-19",
+      "createdAt": "2026-09-19T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-19-nervous",
+      "lang": "EN",
+      "front": "nervous",
+      "back": "緊張的；不安的｜The first time can make you feel nervous.",
+      "date": "2026-09-19",
+      "createdAt": "2026-09-19T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-19-favour",
+      "lang": "EN",
+      "front": "favour",
+      "back": "幫忙；小忙｜Can I ask you for a small favour?",
+      "date": "2026-09-19",
+      "createdAt": "2026-09-19T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-19-開幕（かいまく）",
+      "lang": "JP",
+      "front": "開幕（かいまく）",
+      "back": "開幕｜きょう、アジア大会が開幕します。",
+      "date": "2026-09-19",
+      "createdAt": "2026-09-19T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-19-大会（たいかい）",
+      "lang": "JP",
+      "front": "大会（たいかい）",
+      "back": "運動會；大會｜アジア大会が名古屋で始まります。",
+      "date": "2026-09-19",
+      "createdAt": "2026-09-19T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-19-開会式（かいかいしき）",
+      "lang": "JP",
+      "front": "開会式（かいかいしき）",
+      "back": "開會式｜夕方には開会式があります。",
+      "date": "2026-09-19",
+      "createdAt": "2026-09-19T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-19-選手（せんしゅ）",
+      "lang": "JP",
+      "front": "選手（せんしゅ）",
+      "back": "選手；運動員｜一万五千人以上の選手が参加します。",
+      "date": "2026-09-19",
+      "createdAt": "2026-09-19T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-19-参加する（さんかする）",
+      "lang": "JP",
+      "front": "参加する（さんかする）",
+      "back": "參加｜選手が大会に参加します。",
+      "date": "2026-09-19",
+      "createdAt": "2026-09-19T00:00:00+08:00"
+    },
     {
       "id": "JP-2026-09-18-臨時（りんじ）",
       "lang": "JP",
