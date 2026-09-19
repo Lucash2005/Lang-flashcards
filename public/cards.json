@@ -1,7 +1,87 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19T07:13:50.605+08:00",
+  "updatedAt": "2026-09-20T07:05:00+08:00",
   "cards": [
+    {
+      "id": "EN-2026-09-20-hot-take",
+      "lang": "EN",
+      "front": "hot take",
+      "back": "大膽／引發爭議的意見｜I've got a hot take about pizza.",
+      "date": "2026-09-20",
+      "createdAt": "2026-09-20T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-20-opinion",
+      "lang": "EN",
+      "front": "opinion",
+      "back": "意見；看法｜That is just my opinion.",
+      "date": "2026-09-20",
+      "createdAt": "2026-09-20T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-20-disagree",
+      "lang": "EN",
+      "front": "disagree",
+      "back": "不同意｜Other people may disagree with you.",
+      "date": "2026-09-20",
+      "createdAt": "2026-09-20T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-20-surprising",
+      "lang": "EN",
+      "front": "surprising",
+      "back": "令人驚訝的｜A hot take is a surprising opinion.",
+      "date": "2026-09-20",
+      "createdAt": "2026-09-20T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-20-informal",
+      "lang": "EN",
+      "front": "informal",
+      "back": "非正式的；口語的｜Hot take is an informal phrase.",
+      "date": "2026-09-20",
+      "createdAt": "2026-09-20T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-20-台風（たいふう）",
+      "lang": "JP",
+      "front": "台風（たいふう）",
+      "back": "颱風｜台風が日本に近づいています。",
+      "date": "2026-09-20",
+      "createdAt": "2026-09-20T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-20-中止（ちゅうし）",
+      "lang": "JP",
+      "front": "中止（ちゅうし）",
+      "back": "取消；中止｜21日の開催は中止です。",
+      "date": "2026-09-20",
+      "createdAt": "2026-09-20T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-20-開催する（かいさいする）",
+      "lang": "JP",
+      "front": "開催する（かいさいする）",
+      "back": "舉辦｜20日は予定どおり開催します。",
+      "date": "2026-09-20",
+      "createdAt": "2026-09-20T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-20-安全（あんぜん）",
+      "lang": "JP",
+      "front": "安全（あんぜん）",
+      "back": "安全｜みんなの安全が一番大切です。",
+      "date": "2026-09-20",
+      "createdAt": "2026-09-20T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-20-近づく（ちかづく）",
+      "lang": "JP",
+      "front": "近づく（ちかづく）",
+      "back": "接近；靠近｜台風が近づいています。",
+      "date": "2026-09-20",
+      "createdAt": "2026-09-20T00:00:00+08:00"
+    },
     {
       "id": "EN-2026-09-19-rejection",
       "lang": "EN",
