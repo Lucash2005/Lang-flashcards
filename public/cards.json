@@ -1,7 +1,87 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-20T07:05:00+08:00",
+  "updatedAt": "2026-09-21T07:05:00+08:00",
   "cards": [
+    {
+      "id": "EN-2026-09-21-try-it-on",
+      "lang": "EN",
+      "front": "try it on",
+      "back": "（口語）騙人／試探底線｜Don't try it on with me.",
+      "date": "2026-09-21",
+      "createdAt": "2026-09-21T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-21-deceive",
+      "lang": "EN",
+      "front": "deceive",
+      "back": "欺騙｜He tried to deceive his boss.",
+      "date": "2026-09-21",
+      "createdAt": "2026-09-21T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-21-challenge",
+      "lang": "EN",
+      "front": "challenge",
+      "back": "質疑；挑戰（動詞）｜She challenged his story.",
+      "date": "2026-09-21",
+      "createdAt": "2026-09-21T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-21-landlord",
+      "lang": "EN",
+      "front": "landlord",
+      "back": "房東｜My landlord raised the rent.",
+      "date": "2026-09-21",
+      "createdAt": "2026-09-21T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-21-limits",
+      "lang": "EN",
+      "front": "limits",
+      "back": "底線；限度｜Teenagers sometimes test their parents' limits.",
+      "date": "2026-09-21",
+      "createdAt": "2026-09-21T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-21-厳重（げんじゅう）",
+      "lang": "JP",
+      "front": "厳重（げんじゅう）",
+      "back": "嚴格；嚴密｜大雨に厳重に警戒してください。",
+      "date": "2026-09-21",
+      "createdAt": "2026-09-21T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-21-警戒する（けいかいする）",
+      "lang": "JP",
+      "front": "警戒する（けいかいする）",
+      "back": "警戒｜土砂災害に警戒してください。",
+      "date": "2026-09-21",
+      "createdAt": "2026-09-21T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-21-大雨（おおあめ）",
+      "lang": "JP",
+      "front": "大雨（おおあめ）",
+      "back": "大雨｜関東では大雨のおそれがあります。",
+      "date": "2026-09-21",
+      "createdAt": "2026-09-21T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-21-控える（ひかえる）",
+      "lang": "JP",
+      "front": "控える（ひかえる）",
+      "back": "克制；少做｜外出を控えてください。",
+      "date": "2026-09-21",
+      "createdAt": "2026-09-21T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-21-来場者（らいじょうしゃ）",
+      "lang": "JP",
+      "front": "来場者（らいじょうしゃ）",
+      "back": "來場者；參觀者｜4日間の来場者は約26万人でした。",
+      "date": "2026-09-21",
+      "createdAt": "2026-09-21T00:00:00+08:00"
+    },
     {
       "id": "EN-2026-09-20-hot-take",
       "lang": "EN",
