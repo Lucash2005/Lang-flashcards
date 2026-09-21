@@ -1,7 +1,87 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-21T07:05:00+08:00",
+  "updatedAt": "2026-09-22T07:20:00+08:00",
   "cards": [
+    {
+      "id": "EN-2026-09-22-same-person-different-font",
+      "lang": "EN",
+      "front": "same person, different font",
+      "back": "（口語）很像的兩個人｜My sister and I are the same person, different font.",
+      "date": "2026-09-22",
+      "createdAt": "2026-09-22T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-22-similar",
+      "lang": "EN",
+      "front": "similar",
+      "back": "相似的｜We have similar styles.",
+      "date": "2026-09-22",
+      "createdAt": "2026-09-22T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-22-vibe",
+      "lang": "EN",
+      "front": "vibe",
+      "back": "氛圍；感覺｜They have the same vibe.",
+      "date": "2026-09-22",
+      "createdAt": "2026-09-22T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-22-humorous",
+      "lang": "EN",
+      "front": "humorous",
+      "back": "幽默的｜It's a humorous way to say they look alike.",
+      "date": "2026-09-22",
+      "createdAt": "2026-09-22T00:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-22-remind",
+      "lang": "EN",
+      "front": "remind someone of",
+      "back": "讓人想起｜She reminds me of my friend.",
+      "date": "2026-09-22",
+      "createdAt": "2026-09-22T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-22-土砂崩れ（どしゃくずれ）",
+      "lang": "JP",
+      "front": "土砂崩れ（どしゃくずれ）",
+      "back": "土石流／山崩｜土砂崩れでけが人が出ました。",
+      "date": "2026-09-22",
+      "createdAt": "2026-09-22T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-22-行方不明（ゆくえふめい）",
+      "lang": "JP",
+      "front": "行方不明（ゆくえふめい）",
+      "back": "下落不明｜4人が行方不明です。",
+      "date": "2026-09-22",
+      "createdAt": "2026-09-22T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-22-捜索する（そうさくする）",
+      "lang": "JP",
+      "front": "捜索する（そうさくする）",
+      "back": "搜尋｜警察が捜索を続けています。",
+      "date": "2026-09-22",
+      "createdAt": "2026-09-22T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-22-被害（ひがい）",
+      "lang": "JP",
+      "front": "被害（ひがい）",
+      "back": "受害；損害｜関東で被害が出ています。",
+      "date": "2026-09-22",
+      "createdAt": "2026-09-22T00:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-22-冠水（かんすい）",
+      "lang": "JP",
+      "front": "冠水（かんすい）",
+      "back": "淹水｜道路が冠水しました。",
+      "date": "2026-09-22",
+      "createdAt": "2026-09-22T00:00:00+08:00"
+    },
     {
       "id": "EN-2026-09-21-try-it-on",
       "lang": "EN",
