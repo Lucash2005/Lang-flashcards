@@ -1,7 +1,87 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22T07:20:00+08:00",
+  "updatedAt": "2026-09-23T07:00:00+08:00",
   "cards": [
+    {
+      "id": "EN-2026-09-23-no-notes",
+      "lang": "EN",
+      "front": "no notes",
+      "back": "（口語）完美、挑不出毛病｜The concert was amazing — no notes.",
+      "date": "2026-09-23",
+      "createdAt": "2026-09-23T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-23-feedback",
+      "lang": "EN",
+      "front": "feedback",
+      "back": "回饋；意見｜The teacher gave helpful feedback.",
+      "date": "2026-09-23",
+      "createdAt": "2026-09-23T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-23-criticism",
+      "lang": "EN",
+      "front": "criticism",
+      "back": "批評｜No notes means no criticism.",
+      "date": "2026-09-23",
+      "createdAt": "2026-09-23T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-23-flawless",
+      "lang": "EN",
+      "front": "flawless",
+      "back": "完美無缺的｜Her performance was flawless.",
+      "date": "2026-09-23",
+      "createdAt": "2026-09-23T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-23-assess",
+      "lang": "EN",
+      "front": "assess",
+      "back": "評量；評估｜Teachers assess students' work.",
+      "date": "2026-09-23",
+      "createdAt": "2026-09-23T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-23-浸水（しんすい）",
+      "lang": "JP",
+      "front": "浸水（しんすい）",
+      "back": "浸水；進水｜家が浸水しました。",
+      "date": "2026-09-23",
+      "createdAt": "2026-09-23T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-23-氾濫する（はんらんする）",
+      "lang": "JP",
+      "front": "氾濫する（はんらんする）",
+      "back": "氾濫｜川が氾濫しました。",
+      "date": "2026-09-23",
+      "createdAt": "2026-09-23T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-23-救助する（きゅうじょする）",
+      "lang": "JP",
+      "front": "救助する（きゅうじょする）",
+      "back": "救助｜ボートで住民を救助しました。",
+      "date": "2026-09-23",
+      "createdAt": "2026-09-23T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-23-停電（ていでん）",
+      "lang": "JP",
+      "front": "停電（ていでん）",
+      "back": "停電｜まだ停電しています。",
+      "date": "2026-09-23",
+      "createdAt": "2026-09-23T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-23-復旧（ふっきゅう）",
+      "lang": "JP",
+      "front": "復旧（ふっきゅう）",
+      "back": "復原；修復｜復旧のめどは立っていません。",
+      "date": "2026-09-23",
+      "createdAt": "2026-09-23T07:00:00+08:00"
+    },
     {
       "id": "EN-2026-09-22-same-person-different-font",
       "lang": "EN",
