@@ -3,7 +3,7 @@
   "updatedAt": "2026-09-24T07:00:00+08:00",
   "cards": [
     {
-      "id": "2026-09-24-en-summit",
+      "id": "EN-2026-09-24-summit",
       "lang": "EN",
       "front": "summit",
       "back": "高峰會／峰會｜Trump and Xi will meet at a summit.",
@@ -11,15 +11,15 @@
       "createdAt": "2026-09-24T07:00:00+08:00"
     },
     {
-      "id": "2026-09-24-en-truce",
+      "id": "EN-2026-09-24-truce",
       "lang": "EN",
       "front": "truce",
-      "back": "休戰／暫緩｜They agreed a truce on tariffs.",
+      "back": "休戰；暫緩｜They agreed a truce on tariffs.",
       "date": "2026-09-24",
       "createdAt": "2026-09-24T07:00:00+08:00"
     },
     {
-      "id": "2026-09-24-en-tariff",
+      "id": "EN-2026-09-24-tariff",
       "lang": "EN",
       "front": "tariff",
       "back": "關稅｜High tariffs on products from the other country.",
@@ -27,66 +27,58 @@
       "createdAt": "2026-09-24T07:00:00+08:00"
     },
     {
-      "id": "2026-09-24-en-loom-large",
+      "id": "EN-2026-09-24-loom-large",
       "lang": "EN",
       "front": "loom large",
-      "back": "（問題）顯得很大／令人擔心｜AI and Iran loom large in the talks.",
+      "back": "（問題）顯得很大、令人擔心｜AI and Iran loom large in the talks.",
       "date": "2026-09-24",
       "createdAt": "2026-09-24T07:00:00+08:00"
     },
     {
-      "id": "2026-09-24-en-hotline",
+      "id": "EN-2026-09-24-hotline",
       "lang": "EN",
       "front": "hotline",
-      "back": "專線／熱線｜an AI warning hotline",
+      "back": "專線；熱線｜Trump plans an AI warning hotline.",
       "date": "2026-09-24",
       "createdAt": "2026-09-24T07:00:00+08:00"
     },
     {
-      "id": "2026-09-24-ja-nakunaru",
+      "id": "JP-2026-09-24-亡くなる（なくなる）",
       "lang": "JP",
       "front": "亡くなる（なくなる）",
-      "back": "去世；過世",
+      "back": "去世；過世｜10人が亡くなりました。",
       "date": "2026-09-24",
       "createdAt": "2026-09-24T07:00:00+08:00"
     },
     {
-      "id": "2026-09-24-ja-yukuefumei",
-      "lang": "JP",
-      "front": "行方不明（ゆくえふめい）",
-      "back": "下落不明",
-      "date": "2026-09-24",
-      "createdAt": "2026-09-24T07:00:00+08:00"
-    },
-    {
-      "id": "2026-09-24-ja-dosyakuzure",
-      "lang": "JP",
-      "front": "土砂崩れ（どしゃくずれ）",
-      "back": "土石崩塌",
-      "date": "2026-09-24",
-      "createdAt": "2026-09-24T07:00:00+08:00"
-    },
-    {
-      "id": "2026-09-24-ja-hanran",
-      "lang": "JP",
-      "front": "氾濫（はんらん）",
-      "back": "（河川）氾濫",
-      "date": "2026-09-24",
-      "createdAt": "2026-09-24T07:00:00+08:00"
-    },
-    {
-      "id": "2026-09-24-ja-teibo",
+      "id": "JP-2026-09-24-堤防（ていぼう）",
       "lang": "JP",
       "front": "堤防（ていぼう）",
-      "back": "堤防；河堤",
+      "back": "堤防；河堤｜堤防が壊れました。",
       "date": "2026-09-24",
       "createdAt": "2026-09-24T07:00:00+08:00"
     },
     {
-      "id": "2026-09-24-ja-fukkyuu",
+      "id": "JP-2026-09-24-田んぼ（たんぼ）",
       "lang": "JP",
-      "front": "復旧（ふっきゅう）",
-      "back": "復原；修復",
+      "front": "田んぼ（たんぼ）",
+      "back": "水田；稻田｜田んぼが浸水しました。",
+      "date": "2026-09-24",
+      "createdAt": "2026-09-24T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-24-軒（けん）",
+      "lang": "JP",
+      "front": "軒（けん）",
+      "back": "（房屋的）戶／棟（量詞）｜約1万7000軒で電気が止まっています。",
+      "date": "2026-09-24",
+      "createdAt": "2026-09-24T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-24-壊れる（こわれる）",
+      "lang": "JP",
+      "front": "壊れる（こわれる）",
+      "back": "壞掉；損壞｜堤防が壊れました。",
       "date": "2026-09-24",
       "createdAt": "2026-09-24T07:00:00+08:00"
     },
