@@ -1,7 +1,95 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23T07:00:00+08:00",
+  "updatedAt": "2026-09-24T07:00:00+08:00",
   "cards": [
+    {
+      "id": "2026-09-24-en-summit",
+      "lang": "EN",
+      "front": "summit",
+      "back": "高峰會／峰會｜Trump and Xi will meet at a summit.",
+      "date": "2026-09-24",
+      "createdAt": "2026-09-24T07:00:00+08:00"
+    },
+    {
+      "id": "2026-09-24-en-truce",
+      "lang": "EN",
+      "front": "truce",
+      "back": "休戰／暫緩｜They agreed a truce on tariffs.",
+      "date": "2026-09-24",
+      "createdAt": "2026-09-24T07:00:00+08:00"
+    },
+    {
+      "id": "2026-09-24-en-tariff",
+      "lang": "EN",
+      "front": "tariff",
+      "back": "關稅｜High tariffs on products from the other country.",
+      "date": "2026-09-24",
+      "createdAt": "2026-09-24T07:00:00+08:00"
+    },
+    {
+      "id": "2026-09-24-en-loom-large",
+      "lang": "EN",
+      "front": "loom large",
+      "back": "（問題）顯得很大／令人擔心｜AI and Iran loom large in the talks.",
+      "date": "2026-09-24",
+      "createdAt": "2026-09-24T07:00:00+08:00"
+    },
+    {
+      "id": "2026-09-24-en-hotline",
+      "lang": "EN",
+      "front": "hotline",
+      "back": "專線／熱線｜an AI warning hotline",
+      "date": "2026-09-24",
+      "createdAt": "2026-09-24T07:00:00+08:00"
+    },
+    {
+      "id": "2026-09-24-ja-nakunaru",
+      "lang": "JP",
+      "front": "亡くなる（なくなる）",
+      "back": "去世；過世",
+      "date": "2026-09-24",
+      "createdAt": "2026-09-24T07:00:00+08:00"
+    },
+    {
+      "id": "2026-09-24-ja-yukuefumei",
+      "lang": "JP",
+      "front": "行方不明（ゆくえふめい）",
+      "back": "下落不明",
+      "date": "2026-09-24",
+      "createdAt": "2026-09-24T07:00:00+08:00"
+    },
+    {
+      "id": "2026-09-24-ja-dosyakuzure",
+      "lang": "JP",
+      "front": "土砂崩れ（どしゃくずれ）",
+      "back": "土石崩塌",
+      "date": "2026-09-24",
+      "createdAt": "2026-09-24T07:00:00+08:00"
+    },
+    {
+      "id": "2026-09-24-ja-hanran",
+      "lang": "JP",
+      "front": "氾濫（はんらん）",
+      "back": "（河川）氾濫",
+      "date": "2026-09-24",
+      "createdAt": "2026-09-24T07:00:00+08:00"
+    },
+    {
+      "id": "2026-09-24-ja-teibo",
+      "lang": "JP",
+      "front": "堤防（ていぼう）",
+      "back": "堤防；河堤",
+      "date": "2026-09-24",
+      "createdAt": "2026-09-24T07:00:00+08:00"
+    },
+    {
+      "id": "2026-09-24-ja-fukkyuu",
+      "lang": "JP",
+      "front": "復旧（ふっきゅう）",
+      "back": "復原；修復",
+      "date": "2026-09-24",
+      "createdAt": "2026-09-24T07:00:00+08:00"
+    },
     {
       "id": "EN-2026-09-23-no-notes",
       "lang": "EN",
