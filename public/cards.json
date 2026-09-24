@@ -1,7 +1,87 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24T07:00:00+08:00",
+  "updatedAt": "2026-09-25T07:00:00+08:00",
   "cards": [
+    {
+      "id": "EN-2026-09-25-non-starter",
+      "lang": "EN",
+      "front": "non-starter",
+      "back": "沒戲的點子；行不通的計畫 (a plan with almost no chance of success)",
+      "date": "2026-09-25",
+      "createdAt": "2026-09-25T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-25-succeed",
+      "lang": "EN",
+      "front": "succeed / success",
+      "back": "成功",
+      "date": "2026-09-25",
+      "createdAt": "2026-09-25T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-25-reject",
+      "lang": "EN",
+      "front": "reject",
+      "back": "拒絕",
+      "date": "2026-09-25",
+      "createdAt": "2026-09-25T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-25-proposal",
+      "lang": "EN",
+      "front": "proposal",
+      "back": "提案、建議",
+      "date": "2026-09-25",
+      "createdAt": "2026-09-25T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-25-guaranteed",
+      "lang": "EN",
+      "front": "guaranteed to fail",
+      "back": "幾乎鐵定失敗",
+      "date": "2026-09-25",
+      "createdAt": "2026-09-25T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-25-停電（ていでん）",
+      "lang": "JP",
+      "front": "停電（ていでん）",
+      "back": "停電",
+      "date": "2026-09-25",
+      "createdAt": "2026-09-25T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-25-復旧（ふっきゅう）",
+      "lang": "JP",
+      "front": "復旧（ふっきゅう）",
+      "back": "恢復、修復",
+      "date": "2026-09-25",
+      "createdAt": "2026-09-25T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-25-行方不明（ゆくえふめい）",
+      "lang": "JP",
+      "front": "行方不明（ゆくえふめい）",
+      "back": "下落不明",
+      "date": "2026-09-25",
+      "createdAt": "2026-09-25T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-25-浸水（しんすい）",
+      "lang": "JP",
+      "front": "浸水（しんすい）",
+      "back": "淹水",
+      "date": "2026-09-25",
+      "createdAt": "2026-09-25T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-25-土砂崩れ（どしゃくずれ）",
+      "lang": "JP",
+      "front": "土砂崩れ（どしゃくずれ）",
+      "back": "土石崩落",
+      "date": "2026-09-25",
+      "createdAt": "2026-09-25T07:00:00+08:00"
+    },
     {
       "id": "EN-2026-09-24-summit",
       "lang": "EN",
