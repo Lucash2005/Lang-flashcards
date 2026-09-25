@@ -1,7 +1,87 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25T07:00:00+08:00",
+  "updatedAt": "2026-09-26T07:00:00+08:00",
   "cards": [
+    {
+      "id": "EN-2026-09-26-itch",
+      "lang": "EN",
+      "front": "itch / itchy",
+      "back": "癢；發癢的｜My arm feels itchy after a mosquito bite.",
+      "date": "2026-09-26",
+      "createdAt": "2026-09-26T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-26-scratch",
+      "lang": "EN",
+      "front": "scratch",
+      "back": "抓；搔｜I had to scratch my skin.",
+      "date": "2026-09-26",
+      "createdAt": "2026-09-26T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-26-parasite",
+      "lang": "EN",
+      "front": "parasite",
+      "back": "寄生蟲／寄生生物｜Scratching can remove parasites from the skin.",
+      "date": "2026-09-26",
+      "createdAt": "2026-09-26T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-26-spontaneously",
+      "lang": "EN",
+      "front": "spontaneously",
+      "back": "自發地；不假思索地｜People scratched themselves spontaneously.",
+      "date": "2026-09-26",
+      "createdAt": "2026-09-26T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-26-catch",
+      "lang": "EN",
+      "front": "catch (an itch / a cold)",
+      "back": "被傳染；染上｜You can catch a scratch, just like a cold.",
+      "date": "2026-09-26",
+      "createdAt": "2026-09-26T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-26-工事（こうじ）",
+      "lang": "JP",
+      "front": "工事（こうじ）",
+      "back": "工程；施工｜堤防の工事を始めました。",
+      "date": "2026-09-26",
+      "createdAt": "2026-09-26T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-26-排水する（はいすいする）",
+      "lang": "JP",
+      "front": "排水する（はいすいする）",
+      "back": "排水｜排水の車で水を出しています。",
+      "date": "2026-09-26",
+      "createdAt": "2026-09-26T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-26-線路（せんろ）",
+      "lang": "JP",
+      "front": "線路（せんろ）",
+      "back": "鐵軌；線路｜線路の直しには時間がかかります。",
+      "date": "2026-09-26",
+      "createdAt": "2026-09-26T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-26-片付ける（かたづける）",
+      "lang": "JP",
+      "front": "片付ける（かたづける）",
+      "back": "收拾；整理｜家の片付けを始めました。",
+      "date": "2026-09-26",
+      "createdAt": "2026-09-26T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-26-めど（めど）",
+      "lang": "JP",
+      "front": "めど（めど）",
+      "back": "眉目；預估進度｜再開のめどが立っていません。",
+      "date": "2026-09-26",
+      "createdAt": "2026-09-26T07:00:00+08:00"
+    },
     {
       "id": "EN-2026-09-25-non-starter",
       "lang": "EN",
