@@ -1,7 +1,87 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-26T07:00:00+08:00",
+  "updatedAt": "2026-09-27T07:00:00+08:00",
   "cards": [
+    {
+      "id": "EN-2026-09-27-rejection",
+      "lang": "EN",
+      "front": "rejection",
+      "back": "拒絕｜Rejection means saying no to someone.",
+      "date": "2026-09-27",
+      "createdAt": "2026-09-27T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-27-spike",
+      "lang": "EN",
+      "front": "spike",
+      "back": "（突然）升高、激增｜Her adrenaline spiked when she spoke to a stranger.",
+      "date": "2026-09-27",
+      "createdAt": "2026-09-27T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-27-socially-anxious",
+      "lang": "EN",
+      "front": "socially anxious",
+      "back": "社交焦慮的；怕跟別人說話｜A socially anxious person worries about being judged.",
+      "date": "2026-09-27",
+      "createdAt": "2026-09-27T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-27-come-easier",
+      "lang": "EN",
+      "front": "come easier",
+      "back": "變得比較容易｜After practice, the task came easier.",
+      "date": "2026-09-27",
+      "createdAt": "2026-09-27T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-27-perfectionism",
+      "lang": "EN",
+      "front": "perfectionism",
+      "back": "完美主義｜Perfectionism makes people fear small mistakes.",
+      "date": "2026-09-27",
+      "createdAt": "2026-09-27T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-27-復旧（ふっきゅう）",
+      "lang": "JP",
+      "front": "復旧（ふっきゅう）",
+      "back": "復原、修復｜雨が復旧の仕事を難しくしています。",
+      "date": "2026-09-27",
+      "createdAt": "2026-09-27T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-27-阻む（はばむ）",
+      "lang": "JP",
+      "front": "阻む（はばむ）",
+      "back": "阻礙｜雨が復旧を阻んでいます。",
+      "date": "2026-09-27",
+      "createdAt": "2026-09-27T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-27-行方（ゆくえ）",
+      "lang": "JP",
+      "front": "行方（ゆくえ）",
+      "back": "下落、行蹤｜4人の行方が分かっていません。",
+      "date": "2026-09-27",
+      "createdAt": "2026-09-27T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-27-警戒（けいかい）",
+      "lang": "JP",
+      "front": "警戒（けいかい）",
+      "back": "警戒、警覺｜台風26号への警戒が強まっています。",
+      "date": "2026-09-27",
+      "createdAt": "2026-09-27T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-27-仮（かり）",
+      "lang": "JP",
+      "front": "仮（かり）",
+      "back": "臨時的｜仮の堤防を作りたいと考えています。",
+      "date": "2026-09-27",
+      "createdAt": "2026-09-27T07:00:00+08:00"
+    },
     {
       "id": "EN-2026-09-26-itch",
       "lang": "EN",
