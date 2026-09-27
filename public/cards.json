@@ -1,7 +1,87 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27T07:00:00+08:00",
+  "updatedAt": "2026-09-28T07:00:00+08:00",
   "cards": [
+    {
+      "id": "EN-2026-09-28-convenient",
+      "lang": "EN",
+      "front": "convenient",
+      "back": "方便的｜Apps are convenient because you can study anywhere.",
+      "date": "2026-09-28",
+      "createdAt": "2026-09-28T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-28-on-the-go",
+      "lang": "EN",
+      "front": "on the go",
+      "back": "在移動中；忙碌往來時｜You can learn English on the go with an app.",
+      "date": "2026-09-28",
+      "createdAt": "2026-09-28T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-28-immersion",
+      "lang": "EN",
+      "front": "immersion",
+      "back": "沉浸（完全被包圍）｜Children learn language through immersion.",
+      "date": "2026-09-28",
+      "createdAt": "2026-09-28T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-28-explicit",
+      "lang": "EN",
+      "front": "explicit",
+      "back": "明確的；直接說明的｜Adults often need explicit grammar teaching.",
+      "date": "2026-09-28",
+      "createdAt": "2026-09-28T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-28-key-finding",
+      "lang": "EN",
+      "front": "key finding",
+      "back": "關鍵發現；最重要結論｜The key finding is that combining apps with practice helps.",
+      "date": "2026-09-28",
+      "createdAt": "2026-09-28T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-28-接近（せっきん）／近づく（ちかづく）",
+      "lang": "JP",
+      "front": "接近（せっきん）／近づく（ちかづく）",
+      "back": "靠近、接近｜台風が奄美に近づいています。",
+      "date": "2026-09-28",
+      "createdAt": "2026-09-28T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-28-気圧（きあつ）",
+      "lang": "JP",
+      "front": "気圧（きあつ）",
+      "back": "氣壓｜中心の気圧は945ヘクトパスカルです。",
+      "date": "2026-09-28",
+      "createdAt": "2026-09-28T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-28-最大風速（さいだいふうそく）",
+      "lang": "JP",
+      "front": "最大風速（さいだいふうそく）",
+      "back": "最大風速｜中心付近の最大風速は50メートルです。",
+      "date": "2026-09-28",
+      "createdAt": "2026-09-28T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-28-高波（たかみなみ）",
+      "lang": "JP",
+      "front": "高波（たかみなみ）",
+      "back": "高浪｜高波に警戒してください。",
+      "date": "2026-09-28",
+      "createdAt": "2026-09-28T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-28-呼びかける（よびかける）",
+      "lang": "JP",
+      "front": "呼びかける（よびかける）",
+      "back": "呼籲、號召｜気象台は注意を呼びかけています。",
+      "date": "2026-09-28",
+      "createdAt": "2026-09-28T07:00:00+08:00"
+    },
     {
       "id": "EN-2026-09-27-rejection",
       "lang": "EN",
