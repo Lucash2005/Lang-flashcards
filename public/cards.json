@@ -1,7 +1,87 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28T07:00:00+08:00",
+  "updatedAt": "2026-09-29T07:00:00+08:00",
   "cards": [
+    {
+      "id": "EN-2026-09-29-likelihood",
+      "lang": "EN",
+      "front": "likelihood",
+      "back": "可能性｜There is a greater likelihood of flooding.",
+      "date": "2026-09-29",
+      "createdAt": "2026-09-29T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-29-landslide",
+      "lang": "EN",
+      "front": "landslide",
+      "back": "山崩；土石滑落｜Heavy rain can cause a landslide.",
+      "date": "2026-09-29",
+      "createdAt": "2026-09-29T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-29-mudslide",
+      "lang": "EN",
+      "front": "mudslide",
+      "back": "土石流（泥流）｜A mudslide moves downhill very fast.",
+      "date": "2026-09-29",
+      "createdAt": "2026-09-29T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-29-storm-surge",
+      "lang": "EN",
+      "front": "storm surge",
+      "back": "暴潮（強風把海水推向陸地）｜A storm surge can push seawater inland.",
+      "date": "2026-09-29",
+      "createdAt": "2026-09-29T07:00:00+08:00"
+    },
+    {
+      "id": "EN-2026-09-29-casualty",
+      "lang": "EN",
+      "front": "casualty",
+      "back": "傷亡者｜Storm surges can cause many casualties.",
+      "date": "2026-09-29",
+      "createdAt": "2026-09-29T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-29-付近（ふきん）",
+      "lang": "JP",
+      "front": "付近（ふきん）",
+      "back": "附近｜伊豆諸島付近に進む可能性があります。",
+      "date": "2026-09-29",
+      "createdAt": "2026-09-29T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-29-可能性（かのうせい）",
+      "lang": "JP",
+      "front": "可能性（かのうせい）",
+      "back": "可能性｜進む可能性があります。",
+      "date": "2026-09-29",
+      "createdAt": "2026-09-29T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-29-確認する（かくにんする）",
+      "lang": "JP",
+      "front": "確認する（かくにんする）",
+      "back": "確認｜最新の気象情報を確認してください。",
+      "date": "2026-09-29",
+      "createdAt": "2026-09-29T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-29-比較的（ひかくてき）",
+      "lang": "JP",
+      "front": "比較的（ひかくてき）",
+      "back": "比較地；相對地｜台風は比較的小さいです。",
+      "date": "2026-09-29",
+      "createdAt": "2026-09-29T07:00:00+08:00"
+    },
+    {
+      "id": "JP-2026-09-29-土砂災害（どしゃさいがい）",
+      "lang": "JP",
+      "front": "土砂災害（どしゃさいがい）",
+      "back": "土砂災害｜土砂災害にも注意が必要です。",
+      "date": "2026-09-29",
+      "createdAt": "2026-09-29T07:00:00+08:00"
+    },
     {
       "id": "EN-2026-09-28-convenient",
       "lang": "EN",
